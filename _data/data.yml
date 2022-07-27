@@ -18,14 +18,11 @@ sidebar:
     github: rubik83
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Français
+        level: Maternelle
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Anglais
+        level: Technique
 
     interests:
       - item: Climbing
