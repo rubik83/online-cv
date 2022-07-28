@@ -51,6 +51,19 @@ education:
 
 experiences:
     - role: Développeur C++/Qt
+      time: 2012 - 2013
+      company: EFFIENCE - Clermont-Ferrand (63)
+      details: |
+        Développement d'un ensemble de visualiseurs de données pour un framework robotique doté d'un recorder/player de données précisément datées.
+
+        http://www.eea2013.univ-bpclermont.fr/documents/Cle_USB_CongresCLUBEEA/data/effidence.pdf
+
+        Données GPS sur fond de carte OpenStreetMap
+        Données de centrale inertielle (accélérations, vitesses angulaires, magnétiques) sur afficheur type oscilloscope
+        Données de résultats d'algorithmes de localisation (formes géométriques, textes) sur carte locale graduée
+        Joystick tactile
+
+    - role: Développeur C++/Qt
       time: 2008 - 2012
       company: AKKA Technologies - Clermont-Ferrand (63)
       details: |
