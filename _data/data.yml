@@ -50,6 +50,14 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: DevOps
+      time: 2013 - 2013
+      company: EFFIENCE - Clermont-Ferrand (63)
+      details: |
+        - Centralisation et organisation de l'ensemble des codes sources dans un gestionnaire de version (SVN)
+        - Création d'un système de compilation automatique journalier (NightlyBuild) : Python + CMake
+        - Installation de l'infrastructure réseau (Adressage IP, Serveurs : FTP, Samba, DHCP, OpenLDAP)
+
     - role: Développeur C++/Qt
       time: 2012 - 2013
       company: EFFIENCE - Clermont-Ferrand (63)
