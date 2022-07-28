@@ -50,6 +50,16 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Coordinateur de projet de recherche
+      time: 2006 - 2008
+      company: LASMEA - Clermont-Ferrand (63)
+      details: |
+        Le projet LOVe est un projet je recherche fondamentale associant les industriels Renault et Valeo et plusieurs laboratoires de recherches Français (LASME, INRIA, LCPC) dans le but d'intégrer aux voitures la faculté de détecter les piétons pour diminuer les accidents mortels.
+
+        https://slideplayer.fr/slide/3202436/
+
+        La coordination consistait à la préparation de réunion, de planning, mais aussi à la conception d'outils techniques permettant la communication entre les différents morceaux d'algorithmes développés par des partenaires différents
+        
     - role: Enseignant en C et sécurité des systèmes d'exploitations
       time: 2007 - 2008
       company: SUPINFO - Clermont-Ferrand (63)
