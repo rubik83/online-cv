@@ -50,6 +50,20 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Concepteur Electronique
+      time: Mars 2017 - Octobre 2018
+      company: EFFIDENCE - Clermont-Ferrand (63)
+      details: |
+        Conception et programmation de l'architecture électronique de l'Effibot du Sherpa
+
+        https://www.effidence.com/effibot-agv-amr-3/
+
+        https://www.sherpa-mr.com/accueil
+
+        - Conception de la carte électronique de contrôle des moteurs : adaptation de tensions, sorties analogiques, codeurs quadrature, mesure de tensions batteries
+        - Programmation des microcontrôleurs ATMEGA
+        - Mise en application des redondances imposées par la norme 13849 : sécurité des machines
+
     - role: Développeur Python
       time: Janvier 2017 à Février 2017
       company: EFFIDENCE - Clermont-Ferrand (63)
