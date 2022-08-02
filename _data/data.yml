@@ -60,7 +60,7 @@ experiences:
         - Installation d'un serveur téléphonique Asterisk (lignes internes, menu d'accueil)
 
     - role: Automaticien
-      time: 2015 - 2016
+      time: Novembre 2015 - Avril 2016
       company: EFFIENCE - Clermont-Ferrand (63)
       details: |
         Robotisation d'un chenillard Yanmar
@@ -73,7 +73,7 @@ experiences:
         Programmation
 
     - role: Automaticien
-      time: 2015 - 2015
+      time: Juillet 2015 - Octobre 2015
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
         Robotisation d'une voiture électrique
@@ -84,7 +84,7 @@ experiences:
         Récupération de données odométriques de capteurs de "Toyota Aygo"
 
     - role: Automaticien
-      time: 2014 - 2015
+      time: Juillet 2014 - Juin 2015
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
         https://www.arvalis-infos.fr/phenofield-a-la-recherche-de-varietes-tolerantes-a-la-secheresse-@/view-22107-arvarticle.html
@@ -92,7 +92,7 @@ experiences:
         Programmation d'automate industriel Schneider Electric pour contrôler le déplacement de 8 robots 3 axes sur plusieurs centaines de mètres
 
     - role: Développeur C++/Qt
-      time: 2013 - 2014
+      time: Juillet 2013 - Juin 2014
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
         Développements logiciels pour Phénomobile :
@@ -105,7 +105,7 @@ experiences:
         Suivi et direction de ce projet qui a sollicité 4 autres développeurs
 
     - role: DevOps
-      time: 2013 - 2013
+      time: Mars 2013 - Juin 2013
       company: EFFIENCE - Clermont-Ferrand (63)
       details: |
         - Centralisation et organisation de l'ensemble des codes sources dans un gestionnaire de version (SVN)
@@ -113,7 +113,7 @@ experiences:
         - Installation de l'infrastructure réseau (Adressage IP, Serveurs : FTP, Samba, DHCP, OpenLDAP)
 
     - role: Développeur C++/Qt
-      time: 2012 - 2013
+      time: Février 2012 - Février 2013
       company: EFFIENCE - Clermont-Ferrand (63)
       details: |
         Développement d'un ensemble de visualiseurs de données pour un framework robotique doté d'un recorder/player de données précisément datées.
@@ -126,7 +126,7 @@ experiences:
         Joystick tactile
 
     - role: Développeur C++/Qt
-      time: 2008 - 2012
+      time: Octobre 2008 - Janvier 2012
       company: AKKA Technologies - Clermont-Ferrand (63)
       details: |
         Mission au site de R&D de Michelin à Ladoux
@@ -135,7 +135,7 @@ experiences:
         - Initiative de remplacement de 3 bases de données (Europe, Asie, US) par une seule base et un microservice d'optimisation des requêtes
 
     - role: Coordinateur de projet de recherche
-      time: 2006 - 2008
+      time: Septembre 2006 - Septembre 2008
       company: LASMEA - Clermont-Ferrand (63)
       details: |
         Le projet LOVe est un projet je recherche fondamentale associant les industriels Renault et Valeo et plusieurs laboratoires de recherches Français (LASME, INRIA, LCPC) dans le but d'intégrer aux voitures la faculté de détecter les piétons pour diminuer les accidents mortels.
@@ -145,7 +145,7 @@ experiences:
         La coordination consistait à la préparation de réunion, de planning, mais aussi à la conception d'outils techniques permettant la communication entre les différents morceaux d'algorithmes développés par des partenaires différents
 
     - role: Enseignant en C et sécurité des systèmes d'exploitations
-      time: 2007 - 2008
+      time: Septembre 2007 - Février 2008
       company: SUPINFO - Clermont-Ferrand (63)
       details: |
         https://www.linkedin.com/in/supinfo-clermont-ferrand-436b40182/
