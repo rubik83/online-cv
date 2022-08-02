@@ -50,6 +50,15 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: DevOps
+      time: Mai 2016 - Août 2016
+      company: EFFIENCE - Clermont-Ferrand (63)
+      details: |
+        - Organisation de l'ensemble des codes sources dans un ensemble de projet Git supervisé par un serveur GitLab
+        - Mise en place des Job CI/CD utilisant des images Docker
+        - Installation de l'infrastructure réseau des nouveaux bâtiments (Tunnel VPN Wireguard inter-bâtiments à travers internet, Clé nominative pour les accès VPN des employés en télétravail)
+        - Installation d'un serveur téléphonique Asterisk (lignes internes, menu d'accueil)
+
     - role: Automaticien
       time: 2015 - 2016
       company: EFFIENCE - Clermont-Ferrand (63)
