@@ -50,6 +50,13 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Développeur Python
+      time: Janvier 2017 à Février 2017
+      company: EFFIDENCE - Clermont-Ferrand (63)
+      details: |
+        - Développement d'outils de visualisation / analyse / post-traitements de données robotiques
+        - Utilisations de libraires / framework web : Flask, matplotlib
+
     - role: Ingénieur mécatronique
       time: Septembre 2016 - Décembre 2016
       company: EFFIENCE - Clermont-Ferrand (63)
