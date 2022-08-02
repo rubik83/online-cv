@@ -51,6 +51,24 @@ education:
 
 experiences:
     - role: Concepteur Electronique
+      time: Novembre 2018 - Mai 2019
+      company: EFFIDENCE - Clermont-Ferrand (63)
+      details: |
+        Robotisation du gerbeur manitou
+
+        https://www.effidence.com/solutions-robotisees-effibot-p/
+
+        Conception d'une carte électronique d'adaptations de tensions utilisant la carte PyBoard
+
+        https://www.lextronic.fr/platine-pyboard-lite-v10-micropython-12167.html
+
+        Premier prototype
+
+        - Conception de la carte électronique de contrôle des moteurs : adaptation de tensions, sorties analogiques, codeurs quadrature, mesure de tensions batteries
+        - Programmation des microcontrôleurs ATMEGA
+        - Mise en application des redondances imposées par la norme 13849 : sécurité des machines
+
+    - role: Concepteur Electronique
       time: Mars 2017 - Octobre 2018
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
