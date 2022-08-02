@@ -50,6 +50,18 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Ingénieur mécatronique
+      time: Septembre 2016 - Décembre 2016
+      company: EFFIENCE - Clermont-Ferrand (63)
+      details: |
+        Conception d'un prototype de robot d'aide aux vendanges
+
+        https://levinligerien.fr/2016/12/06/effibot-un-robot-qui-vendange/
+
+        - Modifications mécaniques : installation de supports de plateau et plateau porteur à travers la vision du capteur lidar (avec dépôt de brevet)
+        - Schéma électrique / câblage
+        - Programmation d'automate IFM
+
     - role: DevOps
       time: Mai 2016 - Août 2016
       company: EFFIENCE - Clermont-Ferrand (63)
