@@ -51,6 +51,16 @@ education:
 
 experiences:
     - role: Concepteur Electronique
+      time: Juin 2019 - Mai 2020
+      company: EFFIDENCE - Clermont-Ferrand (63)
+      details: |
+        Conception et programmation de carte électroniques de contrôle d'accessoires
+
+        - https://www.effidence.com/hook-a-decrochage-automatique/
+        - https://www.effidence.com/3d-cartgrip-systeme-dagrippage-pour-effibot/
+        - https://www.effidence.com/convey-link/
+        
+    - role: Concepteur Electronique
       time: Novembre 2018 - Mai 2019
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
