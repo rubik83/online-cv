@@ -50,6 +50,38 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Automaticien
+      time: 2015 - 2016
+      company: EFFIENCE - Clermont-Ferrand (63)
+      details: |
+        Robotisation d'un chenillard Yanmar
+
+        https://www.reussir.fr/robotique-les-viticulteurs-chargent-la-mule
+
+        Choix de composants (automate, électrovannes, gyroscope, codeurs quadratures ...)
+        Schéma électrique
+        Câblage
+        Programmation
+
+    - role: Automaticien
+      time: 2015 - 2015
+      company: EFFIDENCE - Clermont-Ferrand (63)
+      details: |
+        Robotisation d'une voiture électrique
+
+        http://www.little-cars.fr/index.html
+
+        Ajout d'un moteur de direction
+        Récupération de données odométriques de capteurs de "Toyota Aygo"
+
+    - role: Automaticien
+      time: 2014 - 2015
+      company: EFFIDENCE - Clermont-Ferrand (63)
+      details: |
+        https://www.arvalis-infos.fr/phenofield-a-la-recherche-de-varietes-tolerantes-a-la-secheresse-@/view-22107-arvarticle.html
+
+        Programmation d'automate industriel Schneider Electric pour contrôler le déplacement de 8 robots 3 axes sur plusieurs centaines de mètres
+
     - role: Développeur C++/Qt
       time: 2013 - 2014
       company: EFFIDENCE - Clermont-Ferrand (63)
@@ -57,7 +89,7 @@ experiences:
         Développements logiciels pour Phénomobile :
 
         https://www.arvalis-infos.fr/la-phenomobile-un-vehicule-pour-caracteriser-l-etat-des-cultures-en-continu-@/view-14586-arvarticle.html
-        
+
         Contrôle des moteurs par CanOpen : 4 moteurs d'avancement, 4 moteurs de direction
         Cinématique de déplacement holonome (hybride : crabe / bicycle)
         Développement d'une interface graphique tactile de saisie de scénario : interface "no-code" de type déclencheurs -> actions
