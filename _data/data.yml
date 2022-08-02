@@ -50,6 +50,19 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Développeur C++/Qt
+      time: 2013 - 2014
+      company: EFFIDENCE - Clermont-Ferrand (63)
+      details: |
+        Développements logiciels pour Phénomobile :
+
+        https://www.arvalis-infos.fr/la-phenomobile-un-vehicule-pour-caracteriser-l-etat-des-cultures-en-continu-@/view-14586-arvarticle.html
+        
+        Contrôle des moteurs par CanOpen : 4 moteurs d'avancement, 4 moteurs de direction
+        Cinématique de déplacement holonome (hybride : crabe / bicycle)
+        Développement d'une interface graphique tactile de saisie de scénario : interface "no-code" de type déclencheurs -> actions
+        Suivi et direction de ce projet qui a sollicité 4 autres développeurs
+
     - role: DevOps
       time: 2013 - 2013
       company: EFFIENCE - Clermont-Ferrand (63)
