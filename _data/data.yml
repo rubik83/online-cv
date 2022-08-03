@@ -50,6 +50,32 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Chef d'équipe de dévellopeurs RUST
+      time: Janvier 2021 - aujourd'hui
+      company: EFFIDENCE - Clermont-Ferrand (63)
+      details: |
+        - Intégration de 2 nouveaux dévellopeurs dans l'équipe bas niveau Effidence
+        - Formation aux microcontrolleurs STM32
+        - Formation à la conception électronique (KiCAD) et envoi en production
+        - Formation au language RUST ainsi que tous ses concepts :
+          - Borrow checker
+          - Macro procédurales
+          - Programation asynchrone
+          - Lambda
+          - Programation fonctionnelle
+          - Encapsulation
+          - Vérifications à la compilation par typage fort
+          - Généricité
+          - ...
+        - Formation au outils modernes de dévellopements :
+          - Git
+          - GitLab
+          - Intégration/Déploiement continu (Docker, CI/CD)
+          - Visual Studio Code (vscode)
+        - Revue de code
+        - Orientation techniques de l'équipe
+        - Expertise d'équipe sur les problèmatiques les plus délicates
+
     - role: Architecte logiciel
       time: Juin 2020 - Décembre 2020
       company: EFFIDENCE - Clermont-Ferrand (63)
