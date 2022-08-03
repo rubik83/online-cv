@@ -37,9 +37,9 @@ career-profile:
       - Expert en informatique embarquée
       - Expert en modélisation et simulation
       - Expert en mécatronique et robotique
-      - Expert en language RUST
+      - Expert en langage RUST
       - Architecte logiciel et veille technique
-      - Concepteur d'outils pour dévellopeurs
+      - Concepteur d'outils pour développeurs
       - Formateur sur les nouvelles technologies
       - Chef d'équipe de développement et revue de code
 
@@ -50,31 +50,31 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
-    - role: Chef d'équipe de dévellopeurs RUST
+    - role: Chef d'équipe de développeurs RUST
       time: Janvier 2021 - aujourd'hui
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
-        - Intégration de 2 nouveaux dévellopeurs dans l'équipe bas niveau Effidence
-        - Formation aux microcontrolleurs STM32
+        - Intégration de 2 nouveaux développeurs dans l'équipe bas niveau Effidence
+        - Formation aux microcontrôleurs STM32
         - Formation à la conception électronique (KiCAD) et envoi en production
-        - Formation au language RUST ainsi que tous ses concepts :
+        - Formation au langage RUST ainsi que tous ses concepts :
           - Borrow checker
           - Macro procédurales
-          - Programation asynchrone
+          - Programmation asynchrone
           - Lambda
-          - Programation fonctionnelle
+          - Programmation fonctionnelle
           - Encapsulation
           - Vérifications à la compilation par typage fort
           - Généricité
           - ...
-        - Formation au outils modernes de dévellopements :
+        - Formation au outils modernes de développements :
           - Git
           - GitLab
           - Intégration/Déploiement continu (Docker, CI/CD)
           - Visual Studio Code (vscode)
         - Revue de code
         - Orientation techniques de l'équipe
-        - Expertise d'équipe sur les problèmatiques les plus délicates
+        - Expertise d'équipe sur les problématiques les plus délicates
 
     - role: Architecte logiciel
       time: Juin 2020 - Décembre 2020
