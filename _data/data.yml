@@ -53,8 +53,18 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Développeur informatique embarquée
+      time: Décembre 2022 - aujourd'hui
+      company: AddUp - Clermont-Ferrand (63)
+      details: |
+        - https://addupsolutions.com/machines/pbf/formup-350/
+        - Dévelopements de code .Net C# du coeur de pilotage de la machine d'impression 3D métal
+        - Algorithmes de modèle optique des têtes laser
+        - Dashboards de monitoring des machines (Grafana)
+        - Prototype d'une nouvelle carte électronique (STM32/Nucléo)
+
     - role: Chef d'équipe de développeurs RUST
-      time: Janvier 2021 - aujourd'hui
+      time: Janvier 2021 - Novembre 2022
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
         - Intégration de 2 nouveaux développeurs dans l'équipe bas niveau Effidence
@@ -83,7 +93,7 @@ experiences:
       time: Juin 2020 - Décembre 2020
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
-        Conception d'un framework RUST de dévellopement de firmwares :
+        Conception d'un framework RUST de dévelopement de firmwares :
 
         - exécution sur MCU ou sur PC avec la partie simulation du framework (RUST+Iced)
         - système de bootloader pour mise à jour facile des firmwares (RUST-EMBEDDED+Python+IntelHex)
@@ -264,6 +274,12 @@ skills:
     toolset:
       - name: Rust (3 ans)
         level: 98%
+
+      - name: .Net C# (2 ans)
+        level: 60%
+
+      - name: Grafana (1 an)
+        level: 40%
 
       - name: C++ (10 ans)
         level: 80%
