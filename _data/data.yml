@@ -53,8 +53,18 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
+    - role: Product Owner
+      time: Mars 2024 - Aujourd'hui
+      company: AddUp - Clermont-Ferrand (63)
+      details: |
+        - Gestion du développement de produits logiciels (feuille de route, architecture)
+          - AddUp NCore (logiciel embarqué de contrôle d'imprimante 3D)
+          - AddUp Manager (découpeur 3D)
+          - AddUp Dashboards (solution de surveillance basée sur Grafana)
+          - Kit d'étalonnage (outils d'étalonnage géométrique d'imprimante 3D)
+
     - role: Développeur informatique embarquée
-      time: Décembre 2022 - aujourd'hui
+      time: Décembre 2022 - Mars 2024
       company: AddUp - Clermont-Ferrand (63)
       details: |
         - https://addupsolutions.com/machines/pbf/formup-350/
