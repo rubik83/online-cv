@@ -59,7 +59,7 @@ experiences:
       details: |
         - Gestion du développement de produits logiciels (feuille de route, architecture)
           - AddUp NCore (logiciel embarqué de contrôle d'imprimante 3D)
-          - AddUp Manager (découpeur 3D)
+          - AddUp Manager (trancheur 3D et génération de trajectoires laser)
           - AddUp Dashboards (solution de surveillance basée sur Grafana)
           - Kit d'étalonnage (outils d'étalonnage géométrique d'imprimante 3D)
 
@@ -165,13 +165,13 @@ experiences:
       details: |
         Conception d'un prototype de robot d'aide aux vendanges
 
-        https://levinligerien.fr/2016/12/06/effibot-un-robot-qui-vendange/
+        https://www.youtube.com/watch?v=hzUUKvlb2yY
 
         - Modifications mécaniques : installation de supports de plateau et plateau porteur à travers la vision du capteur lidar (avec dépôt de brevet)
         - Schéma électrique / câblage
         - Programmation d'automate IFM
 
-    - role: DevOps
+    - role: DSI / DevOps
       time: Mai 2016 - Août 2016
       company: EFFIENCE - Clermont-Ferrand (63)
       details: |
@@ -208,7 +208,7 @@ experiences:
       time: Juillet 2014 - Juin 2015
       company: EFFIDENCE - Clermont-Ferrand (63)
       details: |
-        https://www.arvalis-infos.fr/phenofield-a-la-recherche-de-varietes-tolerantes-a-la-secheresse-@/view-22107-arvarticle.html
+        https://www.arvalis.fr/infos-techniques/phenofield-varietes-tolerantes-secheresse
 
         Programmation d'automate industriel Schneider Electric pour contrôler le déplacement de 8 robots 3 axes sur plusieurs centaines de mètres
 
@@ -218,7 +218,7 @@ experiences:
       details: |
         Développements logiciels pour Phénomobile :
 
-        https://www.arvalis-infos.fr/la-phenomobile-un-vehicule-pour-caracteriser-l-etat-des-cultures-en-continu-@/view-14586-arvarticle.html
+        https://www.arvalis.fr/infos-techniques/la-phenomobile-un-outil-pour-scanner-au-champ-des-centaines-de-varietes
 
         Contrôle des moteurs par CanOpen : 4 moteurs d'avancement, 4 moteurs de direction
         Cinématique de déplacement holonome (hybride : crabe / bicycle)
@@ -238,9 +238,6 @@ experiences:
       company: EFFIENCE - Clermont-Ferrand (63)
       details: |
         Développement d'un ensemble de visualiseurs de données pour un framework robotique doté d'un recorder/player de données précisément datées.
-
-        http://www.eea2013.univ-bpclermont.fr/documents/Cle_USB_CongresCLUBEEA/data/effidence.pdf
-
         Données GPS sur fond de carte OpenStreetMap
         Données de centrale inertielle (accélérations, vitesses angulaires, magnétiques) sur afficheur type oscilloscope
         Données de résultats d'algorithmes de localisation (formes géométriques, textes) sur carte locale graduée
@@ -282,14 +279,14 @@ skills:
     title: Compétences
 
     toolset:
-      - name: Rust (3 ans)
+      - name: Rust (5 ans)
         level: 98%
 
-      - name: .Net C# (2 ans)
+      - name: .Net C# (3 ans)
         level: 60%
 
-      - name: Grafana (1 an)
-        level: 40%
+      - name: Grafana (3 an)
+        level: 60%
 
       - name: C++ (10 ans)
         level: 80%
@@ -297,11 +294,11 @@ skills:
       - name: Qt (10 ans)
         level: 80%
 
-      - name: Git (5 ans)
+      - name: Git (10 ans)
         level: 90%
 
-      - name: GitLab (5 ans)
-        level: 85%
+      - name: GitLab (8 ans)
+        level: 90%
 
       - name: GitHub (3 ans)
         level: 70%
@@ -321,7 +318,7 @@ skills:
       - name: STM32 (3 ans)
         level: 80%
 
-      - name: Linux (20 ans)
+      - name: Linux (25 ans)
         level: 95%
 
 
