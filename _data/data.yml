@@ -318,6 +318,9 @@ skills:
       - name: STM32 (3 ans)
         level: 80%
 
+      - name: Automate programmable industriel (4 ans)
+        level: 70%
+
       - name: Linux (25 ans)
         level: 95%
 
